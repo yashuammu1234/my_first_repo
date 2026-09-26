@@ -5,3 +5,8 @@ print(a)
 
 b=15
 print(b)
+
+
+c=20
+print(c)
+
